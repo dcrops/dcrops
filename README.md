@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm David 👋
 
-<!--
-**dcrops/dcrops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI-focused engineer building automation and decision-support systems using Python, APIs, and LLM technologies.
 
-Here are some ideas to get you started:
+### 🔧 What I do
+- Design systems first, then build
+- Break problems into pipelines, components, and workflows
+- Apply AI where it adds real value
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current focus
+- Building **Chase Risk & Compliance (CRC)** — a modular diagnostics system for analysing payroll and operational data
+- Exploring AI-assisted workflows and decision support systems
+
+### 🧠 Tech
+Python • FastAPI • SQL • Data Pipelines • LLMs • LangChain
+
+### 📌 Featured Project
+👉 **Chase Risk & Compliance (CRC)**  
+System for identifying hidden risks and inconsistencies in business data through structured analysis
+
+---
+
+Always interested in building practical systems that solve real problems.
