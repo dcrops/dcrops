@@ -1,8 +1,8 @@
-## Hi, I'm David 👋
+## Hi, I'm David 
 
 AI-focused engineer building automation and decision-support systems using Python, APIs, and LLM technologies.
 
-### 🔧 What I do
+## 🔧 What I do
 - Design systems first, then build
 - Break problems into pipelines, components, and workflows
 - Apply AI where it adds real value
