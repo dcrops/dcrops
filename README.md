@@ -7,16 +7,37 @@ AI-focused engineer building automation and decision-support systems using Pytho
 - Break problems into pipelines, components, and workflows
 - Apply AI where it adds real value
 
-### 🚀 Current focus
-- Building **Chase Risk & Compliance (CRC)** — a modular diagnostics system for analysing payroll and operational data
-- Exploring AI-assisted workflows and decision support systems
+## 🚀 Current Focus
 
-### 🧠 Tech
-Python • FastAPI • SQL • Data Pipelines • LLMs • LangChain
+- Building Governance-Aware AI Systems
+- Retrieval-Augmented Generation (RAG)
+- Evaluation & Observability
+- Operational Intelligence Platforms
+- Explainable AI Workflows
 
-### 📌 Featured Project
-👉 **Chase Risk & Compliance (CRC)**  
-System for identifying hidden risks and inconsistencies in business data through structured analysis
+## 🧠 AI Engineering Areas
+
+- Retrieval Engineering
+- RAG Systems
+- Evaluation Frameworks
+- Telemetry & Observability
+- Grounded Generation
+- Safety & Guardrails
+- Operational Intelligence
+- Data Engineering
+
+## 🌐 Portfolio
+
+AI Engineering Journey
+
+https://journey.chaseriskandcompliance.com.au
+
+Interactive portfolio documenting:
+
+- Public Holiday Entitlements Engine
+- Payroll Diagnostics Engine
+- Governance-Aware Document Intelligence RAG System
+- Operational Intelligence Copilot (Roadmap)
 
 ---
 
